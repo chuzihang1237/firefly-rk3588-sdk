@@ -13,4 +13,4 @@ dl/
 *.img
 # 日志
 *.log
-
+.repo/

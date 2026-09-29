@@ -1,0 +1,1 @@
+device/rockchip/common/scripts/firefly-release.sh

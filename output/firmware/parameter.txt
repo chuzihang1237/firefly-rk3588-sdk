@@ -1,0 +1,1 @@
+../../device/rockchip/.chips/rk3588/parameter-buildroot-fit.txt
