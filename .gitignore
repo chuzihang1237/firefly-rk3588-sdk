@@ -1,0 +1,16 @@
+# 编译输出目录
+out/
+build/
+.build/
+# 编译中间文件
+*.o
+*.ko
+*.mod.c
+*.symvers
+# 下载缓存
+dl/
+# 临时生成镜像
+*.img
+# 日志
+*.log
+
